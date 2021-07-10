@@ -39,7 +39,7 @@ class _IntroductionAuthScreenState extends State<IntroductionAuthScreen> {
           image: Center(
             child: Image(
               image: NetworkImage(
-                "https://download.logo.wine/logo/Microsoft_Teams/Microsoft_Teams-Logo.wine.png",
+                "https://microsoft.acehacker.com/engage2021/img/demo-content/images/microsoft_teams.png",
               ),
             ),
           ),
@@ -54,7 +54,7 @@ class _IntroductionAuthScreenState extends State<IntroductionAuthScreen> {
           image: Center(
             child: Image(
               image: NetworkImage(
-                "https://download.logo.wine/logo/Microsoft_Teams/Microsoft_Teams-Logo.wine.png",
+                "https://microsoft.acehacker.com/engage2021/img/demo-content/images/chat_feature.png",
               ),
             ),
           ),
