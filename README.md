@@ -9,7 +9,6 @@ This project is made using Flutter and Firebase and I have followed AGILE Method
 4.OCR (optical character recognition)which converts an image directly to text format.
 The current Existing features in the MS Teams included :
 Assignment Uploading, Meetings feature and a Chat ,Calendar and  Activity Feature.
-Source Code:(will be provided tomorrow after the deadline of the project)
 You can contact me at : amityadav1010101010@gmail.com
 View for a preparation: https://youtu.be/AWJGwpJH4UM
 For detailed explanation on each feature see my next video:
