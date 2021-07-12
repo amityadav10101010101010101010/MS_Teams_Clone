@@ -15,8 +15,11 @@ This project is made using Flutter and Firebase and I have followed AGILE Method
 The current Existing features in the MS Teams included :
 Assignment Uploading, Meetings feature and a Chat ,Calendar and  Activity Feature.
 You can contact me at : amityadav1010101010@gmail.com
-View for a preparation: https://youtu.be/AWJGwpJH4UM
-All the Screens are present here: https://drive.google.com/drive/folders/1WCxp09Uj3X8_YdfPCDQWe3f2JW56Ub0N?usp=sharing
+Video of Presentation of the app during final Submission:
+https://youtu.be/AWJGwpJH4UM
+
+All the Screens are present here:
+https://drive.google.com/drive/folders/1WCxp09Uj3X8_YdfPCDQWe3f2JW56Ub0N?usp=sharing
 For detailed explanation on each feature see my next video:
 https://www.youtube.com/watch?v=aSj8qtuZXiM
 ## Getting Started
