@@ -3,10 +3,15 @@
 A new Flutter project.
 Made during MS ENGAGE PRODRAM 2021. 
 This project is made using Flutter and Firebase and I have followed AGILE Methodolgy .I had added some basic features along with the current MS Teams features like 
+
 1.Added a  Realtime News feature using NewsApi.org
+
 2.Added a Todo List
+
 3.Added a QR code Creator and Scanner
+
 4.OCR (optical character recognition)which converts an image directly to text format.
+
 The current Existing features in the MS Teams included :
 Assignment Uploading, Meetings feature and a Chat ,Calendar and  Activity Feature.
 You can contact me at : amityadav1010101010@gmail.com
