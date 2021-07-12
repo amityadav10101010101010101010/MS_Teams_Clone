@@ -1,7 +1,7 @@
 # MS_Teams_Clone
 
 A new Flutter project.
-Made during MS ENGAGE PRODRAM 2021. 
+Made during MS ENGAGE PROGRAM 2021. 
 This project is made using Flutter and Firebase and I have followed AGILE Methodolgy .I had added some basic features along with the current MS Teams features like 
 
 1.Added a  Realtime News feature using NewsApi.org
