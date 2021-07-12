@@ -34,7 +34,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
- Requirements for running the app:
+ # Requirements for running the app:
  (1) JAVA 11
  (2) Android Emulator with playstore(as playstore is a must for the working of OCR Feature[I used NEXUS 5P ]
  (3) The UI was made according to Pixel 3X and if used in any other then we will get yellow and black zebra lines as I got in the video Demonstration. 
