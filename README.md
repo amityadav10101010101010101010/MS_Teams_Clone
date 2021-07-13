@@ -1,4 +1,4 @@
-![Screenshot (7)](https://user-images.githubusercontent.com/56102543/125437556-d8da7bb9-2a22-4f62-951c-e1ea430de88c.png)
+
 # MS_Teams_Clone
 
 A new Flutter project.
@@ -25,7 +25,7 @@ For detailed explanation on each feature see my next video:
 https://www.youtube.com/watch?v=aSj8qtuZXiM
 ## WIREFRAMES
 https://www.figma.com/file/aK161mKNgtSdQXGXMYLuK4/Untitled?node-id=0%3A1
-
+![Screenshot (7)](https://user-images.githubusercontent.com/56102543/125437556-d8da7bb9-2a22-4f62-951c-e1ea430de88c.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
