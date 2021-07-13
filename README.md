@@ -1,3 +1,4 @@
+![Screenshot (7)](https://user-images.githubusercontent.com/56102543/125437556-d8da7bb9-2a22-4f62-951c-e1ea430de88c.png)
 # MS_Teams_Clone
 
 A new Flutter project.
