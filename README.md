@@ -22,6 +22,9 @@ All the Screens are present here:
 https://drive.google.com/drive/folders/1WCxp09Uj3X8_YdfPCDQWe3f2JW56Ub0N?usp=sharing
 For detailed explanation on each feature see my next video:
 https://www.youtube.com/watch?v=aSj8qtuZXiM
+## WIREFRAMES
+https://www.figma.com/file/aK161mKNgtSdQXGXMYLuK4/Untitled?node-id=0%3A1
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
